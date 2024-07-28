@@ -1,5 +1,4 @@
-﻿using System;
-namespace DrawingPackageApp.Widgets
+﻿namespace DrawingPackageApp.Widgets
 {
     public class CircleWidget : Widget
     {

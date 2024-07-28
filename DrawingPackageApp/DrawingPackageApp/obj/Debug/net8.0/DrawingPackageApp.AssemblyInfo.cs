@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DrawingPackageApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2c88c378948001c08e2da903eec1f169ba388790")]
 [assembly: System.Reflection.AssemblyProductAttribute("DrawingPackageApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DrawingPackageApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

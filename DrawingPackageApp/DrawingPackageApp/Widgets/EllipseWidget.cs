@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace DrawingPackageApp.Widgets
+﻿namespace DrawingPackageApp.Widgets
 {
     public class EllipseWidget : Widget
     {
@@ -35,7 +29,7 @@ namespace DrawingPackageApp.Widgets
 
         public override string ToString()
         {
-            return string.Format("{0} horizontalDiameter={1} verticalDiameter={2}",base.ToString(), horizontalDiameter, verticalDiameter);
+            return string.Format("{0} diameterH = {1} diameterV = {2}",base.ToString(), horizontalDiameter, verticalDiameter);
         }
     }
 }

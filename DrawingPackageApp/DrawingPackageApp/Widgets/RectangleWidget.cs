@@ -32,7 +32,7 @@
 
         public override string ToString()
         {
-            return string.Format("{0} rectangleWidth={1} rectangleHeight={2}", base.ToString(), rectangleWidth, rectangleHeight);
+            return string.Format("{0} width={1} height={2}", base.ToString(), rectangleWidth, rectangleHeight);
         }
     }
 }

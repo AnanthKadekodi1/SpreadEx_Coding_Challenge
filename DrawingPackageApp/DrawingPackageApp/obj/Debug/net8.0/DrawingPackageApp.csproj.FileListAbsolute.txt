@@ -1,0 +1,15 @@
+C:\Projects\Coding_Practice\Spread_Ex\DrawingPackageApp\DrawingPackageApp\obj\Debug\net8.0\DrawingPackageApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Coding_Practice\Spread_Ex\DrawingPackageApp\DrawingPackageApp\obj\Debug\net8.0\DrawingPackageApp.AssemblyInfoInputs.cache
+C:\Projects\Coding_Practice\Spread_Ex\DrawingPackageApp\DrawingPackageApp\obj\Debug\net8.0\DrawingPackageApp.AssemblyInfo.cs
+C:\Projects\Coding_Practice\Spread_Ex\DrawingPackageApp\DrawingPackageApp\obj\Debug\net8.0\DrawingPackageApp.csproj.CoreCompileInputs.cache
+C:\Projects\Coding_Practice\Spread_Ex\DrawingPackageApp\DrawingPackageApp\obj\Debug\net8.0\DrawingPackageApp.sourcelink.json
+C:\Projects\Coding_Practice\Spread_Ex\DrawingPackageApp\DrawingPackageApp\bin\Debug\net8.0\DrawingPackageApp.exe
+C:\Projects\Coding_Practice\Spread_Ex\DrawingPackageApp\DrawingPackageApp\bin\Debug\net8.0\DrawingPackageApp.deps.json
+C:\Projects\Coding_Practice\Spread_Ex\DrawingPackageApp\DrawingPackageApp\bin\Debug\net8.0\DrawingPackageApp.runtimeconfig.json
+C:\Projects\Coding_Practice\Spread_Ex\DrawingPackageApp\DrawingPackageApp\bin\Debug\net8.0\DrawingPackageApp.dll
+C:\Projects\Coding_Practice\Spread_Ex\DrawingPackageApp\DrawingPackageApp\bin\Debug\net8.0\DrawingPackageApp.pdb
+C:\Projects\Coding_Practice\Spread_Ex\DrawingPackageApp\DrawingPackageApp\obj\Debug\net8.0\DrawingPackageApp.dll
+C:\Projects\Coding_Practice\Spread_Ex\DrawingPackageApp\DrawingPackageApp\obj\Debug\net8.0\refint\DrawingPackageApp.dll
+C:\Projects\Coding_Practice\Spread_Ex\DrawingPackageApp\DrawingPackageApp\obj\Debug\net8.0\DrawingPackageApp.pdb
+C:\Projects\Coding_Practice\Spread_Ex\DrawingPackageApp\DrawingPackageApp\obj\Debug\net8.0\DrawingPackageApp.genruntimeconfig.cache
+C:\Projects\Coding_Practice\Spread_Ex\DrawingPackageApp\DrawingPackageApp\obj\Debug\net8.0\ref\DrawingPackageApp.dll

@@ -1,8 +1,8 @@
 ﻿using DrawingPackageApp.Widgets;
 
-namespace DrawingPackageApp.WidgetHelper
+namespace DrawingPackageApp.Logic
 {
-    public class Drawing    
+    public class Drawing
     {
         private List<Widget> widgets;
 
@@ -30,4 +30,5 @@ namespace DrawingPackageApp.WidgetHelper
             }
 
         }
+    }
 }

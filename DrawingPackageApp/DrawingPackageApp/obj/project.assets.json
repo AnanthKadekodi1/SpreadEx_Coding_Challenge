@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projects\\Coding_Practice\\DrawingPackage\\DrawingPackageApp\\DrawingPackageApp\\DrawingPackageApp.csproj",
+      "projectUniqueName": "C:\\Projects\\Coding_Practice\\Spread_Ex\\DrawingPackageApp\\DrawingPackageApp\\DrawingPackageApp.csproj",
       "projectName": "DrawingPackageApp",
-      "projectPath": "C:\\Projects\\Coding_Practice\\DrawingPackage\\DrawingPackageApp\\DrawingPackageApp\\DrawingPackageApp.csproj",
+      "projectPath": "C:\\Projects\\Coding_Practice\\Spread_Ex\\DrawingPackageApp\\DrawingPackageApp\\DrawingPackageApp.csproj",
       "packagesPath": "C:\\Users\\akadekodie\\.nuget\\packages\\",
-      "outputPath": "C:\\Projects\\Coding_Practice\\DrawingPackage\\DrawingPackageApp\\DrawingPackageApp\\obj\\",
+      "outputPath": "C:\\Projects\\Coding_Practice\\Spread_Ex\\DrawingPackageApp\\DrawingPackageApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
