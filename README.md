@@ -13,3 +13,12 @@ Additionally, stringbuilder was chosen as it provides a mutable string object an
 
 4 - All the widgets are grouped together in a list and they all inherit the common base class. This allows all the widgets to be grouped together in a list, making our solution significantly easier to handle/manage. 
 
+**Further work to do with more time **
+
+1 - Implement interface for the drawing class. This would allow the Interface Segregation Principle (ISP) to be implemented, ensure that the classes that implement the interface do not need to provide unnecessary details. 
+
+2 - Error handling - Implementation of varied error handling can be implemented such as Error handling if a string value (instead of an int) as inserted for x and y.
+
+3 - Dependency Injection  - Using dependency injection to remove dependencies in the application and ensure it is more flexible. 
+
+4 - Design Pattern - Implementing a factory design pattern with a common factory class would be advantageous as it promotes loose coupling and elimnates the need to bind application-specific classes in code. 
