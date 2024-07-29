@@ -8,7 +8,7 @@
         {
             if (circleSize <= 0)
             {
-                throw new ArgumentOutOfRangeException("circleSize", "The Circle Size must be more than zERO");
+                throw new ArgumentOutOfRangeException("circleSize", "The Circle Size must be more than 0");
             }
 
             this.circleSize = circleSize;
