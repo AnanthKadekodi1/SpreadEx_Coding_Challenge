@@ -8,12 +8,12 @@
 
         public TextBoxWidget(string text, int locationx, int locationy, int textBoxWidth, int textBoxHeight) : base("Textbox", locationx, locationy)
         {
-            if (textBoxWidth < 0)
+            if (textBoxWidth <= 0)
             {
                 throw new ArgumentOutOfRangeException("textBoxWidth", "The text box width must be more than 0");
             }
 
-            if (textBoxHeight < 0)
+            if (textBoxHeight <= 0)
             {
                 throw new ArgumentOutOfRangeException("textBoxHeight", "The text box height must be more than 0");
             }

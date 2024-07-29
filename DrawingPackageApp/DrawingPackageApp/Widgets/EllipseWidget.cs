@@ -7,7 +7,7 @@
 
         public EllipseWidget(int locationx, int locationy, int horizontalDiameter, int verticalDiameter) : base("Ellipse", locationx, locationy)
         {
-            if (horizontalDiameter < 0)
+            if (horizontalDiameter <= 0)
             {
                 throw new ArgumentOutOfRangeException("horizontalDiameter", "The Horizontal Diameter must be more than 0");
             }

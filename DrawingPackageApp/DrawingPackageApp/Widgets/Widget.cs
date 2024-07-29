@@ -12,15 +12,6 @@ namespace DrawingPackageApp.Widgets
             this.widgetShape = widgetShape;
             widgetLocation = new Point(widgetLocationX, widgetLocationY);
         }
-        public string GetShape()
-        {
-            return widgetShape;
-        }
-
-        public Point GetLocation()
-        {
-            return widgetLocation;
-        }
 
         public override string ToString()   // Write the shape and location, common to all widgets.
         {

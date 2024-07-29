@@ -1,4 +1,5 @@
 ﻿using DrawingPackageApp.Widgets;
+using System.Text;
 
 namespace DrawingPackageApp.Logic
 {
@@ -15,19 +16,24 @@ namespace DrawingPackageApp.Logic
         {
             if (widget == null)
             {
-                throw new ArgumentNullException("widget");
+                throw new ArgumentNullException("Null Widget Added");
             }
 
             widgets.Add(widget);
         }
 
-        public void Print()
+        public string PrintDrawing()
         {
+            var drawingOutput = new StringBuilder();
+
             foreach (Widget widget in widgets)
             {
-                Console.WriteLine(widget.ToString());
+                drawingOutput.Append(widget.ToString());
+                drawingOutput.Append(Environment.NewLine);
 
             }
+
+            return drawingOutput.ToString(); 
 
         }
     }

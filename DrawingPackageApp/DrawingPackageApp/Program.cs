@@ -31,7 +31,7 @@ namespace DrawingPackageApp
 
             drawing.AddWidget(new TextBoxWidget("sample text", 5, 5, 200, 100));
 
-            drawing.Print();
+            Console.WriteLine(drawing.PrintDrawing());
         }
     }
 }

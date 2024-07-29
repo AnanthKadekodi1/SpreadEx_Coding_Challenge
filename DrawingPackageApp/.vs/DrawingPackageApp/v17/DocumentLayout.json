@@ -3,16 +3,24 @@
   "WorkspaceRootPath": "C:\\Projects\\Coding_Practice\\Spread_Ex\\DrawingPackageApp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A5AA8F17-2C6A-4A60-A90D-B590898C2A20}|DrawingPackageApp.Tests\\DrawingPackageApp.Tests.csproj|c:\\projects\\coding_practice\\spread_ex\\drawingpackageapp\\drawingpackageapp.tests\\drawingtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5AA8F17-2C6A-4A60-A90D-B590898C2A20}|DrawingPackageApp.Tests\\DrawingPackageApp.Tests.csproj|solutionrelative:drawingpackageapp.tests\\drawingtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5AA8F17-2C6A-4A60-A90D-B590898C2A20}|DrawingPackageApp.Tests\\DrawingPackageApp.Tests.csproj|c:\\projects\\coding_practice\\spread_ex\\drawingpackageapp\\drawingpackageapp.tests\\widgets\\widgetstest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5AA8F17-2C6A-4A60-A90D-B590898C2A20}|DrawingPackageApp.Tests\\DrawingPackageApp.Tests.csproj|solutionrelative:drawingpackageapp.tests\\widgets\\widgetstest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{57D32F8A-B02B-4613-BB3A-E82A2958AFFE}|DrawingPackageApp\\DrawingPackageApp.csproj|c:\\projects\\coding_practice\\spread_ex\\drawingpackageapp\\drawingpackageapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{57D32F8A-B02B-4613-BB3A-E82A2958AFFE}|DrawingPackageApp\\DrawingPackageApp.csproj|solutionrelative:drawingpackageapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{57D32F8A-B02B-4613-BB3A-E82A2958AFFE}|DrawingPackageApp\\DrawingPackageApp.csproj|c:\\projects\\coding_practice\\spread_ex\\drawingpackageapp\\drawingpackageapp\\widgets\\textboxwidget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{57D32F8A-B02B-4613-BB3A-E82A2958AFFE}|DrawingPackageApp\\DrawingPackageApp.csproj|solutionrelative:drawingpackageapp\\widgets\\textboxwidget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{57D32F8A-B02B-4613-BB3A-E82A2958AFFE}|DrawingPackageApp\\DrawingPackageApp.csproj|c:\\projects\\coding_practice\\spread_ex\\drawingpackageapp\\drawingpackageapp\\widgets\\widget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{57D32F8A-B02B-4613-BB3A-E82A2958AFFE}|DrawingPackageApp\\DrawingPackageApp.csproj|solutionrelative:drawingpackageapp\\widgets\\widget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57D32F8A-B02B-4613-BB3A-E82A2958AFFE}|DrawingPackageApp\\DrawingPackageApp.csproj|c:\\projects\\coding_practice\\spread_ex\\drawingpackageapp\\drawingpackageapp\\widgets\\textboxwidget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57D32F8A-B02B-4613-BB3A-E82A2958AFFE}|DrawingPackageApp\\DrawingPackageApp.csproj|solutionrelative:drawingpackageapp\\widgets\\textboxwidget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{57D32F8A-B02B-4613-BB3A-E82A2958AFFE}|DrawingPackageApp\\DrawingPackageApp.csproj|c:\\projects\\coding_practice\\spread_ex\\drawingpackageapp\\drawingpackageapp\\widgets\\squarewidget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -33,6 +41,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{57D32F8A-B02B-4613-BB3A-E82A2958AFFE}|DrawingPackageApp\\DrawingPackageApp.csproj|c:\\projects\\coding_practice\\spread_ex\\drawingpackageapp\\drawingpackageapp\\logic\\drawing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{57D32F8A-B02B-4613-BB3A-E82A2958AFFE}|DrawingPackageApp\\DrawingPackageApp.csproj|solutionrelative:drawingpackageapp\\logic\\drawing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Projects\\Coding_Practice\\Spread_Ex\\DrawingPackageApp\\DrawingPackageApp.Tests\\Widgets\\WidgetsTests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DrawingPackageApp.Tests\\Widgets\\WidgetsTests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,7 +54,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 25,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -54,46 +66,85 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
+              "Title": "DrawingTests.cs",
+              "DocumentMoniker": "C:\\Projects\\Coding_Practice\\Spread_Ex\\DrawingPackageApp\\DrawingPackageApp.Tests\\DrawingTests.cs",
+              "RelativeDocumentMoniker": "DrawingPackageApp.Tests\\DrawingTests.cs",
+              "ToolTip": "C:\\Projects\\Coding_Practice\\Spread_Ex\\DrawingPackageApp\\DrawingPackageApp.Tests\\DrawingTests.cs",
+              "RelativeToolTip": "DrawingPackageApp.Tests\\DrawingTests.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAIwAEAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T23:30:03.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WidgetsTest.cs",
+              "DocumentMoniker": "C:\\Projects\\Coding_Practice\\Spread_Ex\\DrawingPackageApp\\DrawingPackageApp.Tests\\Widgets\\WidgetsTest.cs",
+              "RelativeDocumentMoniker": "DrawingPackageApp.Tests\\Widgets\\WidgetsTest.cs",
+              "ToolTip": "C:\\Projects\\Coding_Practice\\Spread_Ex\\DrawingPackageApp\\DrawingPackageApp.Tests\\Widgets\\WidgetsTest.cs",
+              "RelativeToolTip": "DrawingPackageApp.Tests\\Widgets\\WidgetsTest.cs",
+              "ViewState": "AQIAAGcAAAAAAAAAAAAUwEEAAABuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T22:42:54.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "WidgetsTests.cs",
+              "DocumentMoniker": "C:\\Projects\\Coding_Practice\\Spread_Ex\\DrawingPackageApp\\DrawingPackageApp.Tests\\Widgets\\WidgetsTests.cs",
+              "RelativeDocumentMoniker": "DrawingPackageApp.Tests\\Widgets\\WidgetsTests.cs",
+              "ToolTip": "C:\\Projects\\Coding_Practice\\Spread_Ex\\DrawingPackageApp\\DrawingPackageApp.Tests\\Widgets\\WidgetsTests.cs",
+              "RelativeToolTip": "DrawingPackageApp.Tests\\Widgets\\WidgetsTests.cs",
+              "ViewState": "AQIAAE8AAAAAAAAAAAAowFgAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T21:47:57.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "CircleWidget.cs",
               "DocumentMoniker": "C:\\Projects\\Coding_Practice\\Spread_Ex\\DrawingPackageApp\\DrawingPackageApp\\Widgets\\CircleWidget.cs",
               "RelativeDocumentMoniker": "DrawingPackageApp\\Widgets\\CircleWidget.cs",
               "ToolTip": "C:\\Projects\\Coding_Practice\\Spread_Ex\\DrawingPackageApp\\DrawingPackageApp\\Widgets\\CircleWidget.cs",
               "RelativeToolTip": "DrawingPackageApp\\Widgets\\CircleWidget.cs",
-              "ViewState": "AQIAABEAAAAAAAAAAAAQwAcAAABTAAAA",
+              "ViewState": "AQIAABIAAAAAAAAAAAAowAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-28T20:45:07.962Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "EllipseWidget.cs",
               "DocumentMoniker": "C:\\Projects\\Coding_Practice\\Spread_Ex\\DrawingPackageApp\\DrawingPackageApp\\Widgets\\EllipseWidget.cs",
               "RelativeDocumentMoniker": "DrawingPackageApp\\Widgets\\EllipseWidget.cs",
               "ToolTip": "C:\\Projects\\Coding_Practice\\Spread_Ex\\DrawingPackageApp\\DrawingPackageApp\\Widgets\\EllipseWidget.cs",
               "RelativeToolTip": "DrawingPackageApp\\Widgets\\EllipseWidget.cs",
-              "ViewState": "AQIAABsAAAAAAAAAAAAowCgAAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-28T20:44:50.244Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Widget.cs",
               "DocumentMoniker": "C:\\Projects\\Coding_Practice\\Spread_Ex\\DrawingPackageApp\\DrawingPackageApp\\Widgets\\Widget.cs",
               "RelativeDocumentMoniker": "DrawingPackageApp\\Widgets\\Widget.cs",
               "ToolTip": "C:\\Projects\\Coding_Practice\\Spread_Ex\\DrawingPackageApp\\DrawingPackageApp\\Widgets\\Widget.cs",
               "RelativeToolTip": "DrawingPackageApp\\Widgets\\Widget.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAowBwAAAAFAAAA",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwA4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-28T20:33:29.644Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "SquareWidget.cs",
               "DocumentMoniker": "C:\\Projects\\Coding_Practice\\Spread_Ex\\DrawingPackageApp\\DrawingPackageApp\\Widgets\\SquareWidget.cs",
               "RelativeDocumentMoniker": "DrawingPackageApp\\Widgets\\SquareWidget.cs",
@@ -106,52 +157,52 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "RectangleWidget.cs",
               "DocumentMoniker": "C:\\Projects\\Coding_Practice\\Spread_Ex\\DrawingPackageApp\\DrawingPackageApp\\Widgets\\RectangleWidget.cs",
               "RelativeDocumentMoniker": "DrawingPackageApp\\Widgets\\RectangleWidget.cs",
               "ToolTip": "C:\\Projects\\Coding_Practice\\Spread_Ex\\DrawingPackageApp\\DrawingPackageApp\\Widgets\\RectangleWidget.cs",
               "RelativeToolTip": "DrawingPackageApp\\Widgets\\RectangleWidget.cs",
-              "ViewState": "AQIAABgAAAAAAAAAAAAowAUAAAAjAAAA",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwBUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-28T20:33:35.944Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "TextBoxWidget.cs",
               "DocumentMoniker": "C:\\Projects\\Coding_Practice\\Spread_Ex\\DrawingPackageApp\\DrawingPackageApp\\Widgets\\TextBoxWidget.cs",
               "RelativeDocumentMoniker": "DrawingPackageApp\\Widgets\\TextBoxWidget.cs",
               "ToolTip": "C:\\Projects\\Coding_Practice\\Spread_Ex\\DrawingPackageApp\\DrawingPackageApp\\Widgets\\TextBoxWidget.cs",
               "RelativeToolTip": "DrawingPackageApp\\Widgets\\TextBoxWidget.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAFAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-28T20:20:23.995Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "Drawing.cs",
               "DocumentMoniker": "C:\\Projects\\Coding_Practice\\Spread_Ex\\DrawingPackageApp\\DrawingPackageApp\\Logic\\Drawing.cs",
               "RelativeDocumentMoniker": "DrawingPackageApp\\Logic\\Drawing.cs",
               "ToolTip": "C:\\Projects\\Coding_Practice\\Spread_Ex\\DrawingPackageApp\\DrawingPackageApp\\Logic\\Drawing.cs",
               "RelativeToolTip": "DrawingPackageApp\\Logic\\Drawing.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAAAEwBkAAAAuAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAA6AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-28T20:19:04.745Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Projects\\Coding_Practice\\Spread_Ex\\DrawingPackageApp\\DrawingPackageApp\\Program.cs",
               "RelativeDocumentMoniker": "DrawingPackageApp\\Program.cs",
               "ToolTip": "C:\\Projects\\Coding_Practice\\Spread_Ex\\DrawingPackageApp\\DrawingPackageApp\\Program.cs",
               "RelativeToolTip": "DrawingPackageApp\\Program.cs",
-              "ViewState": "AQIAAAQAAAAAAAAAAADwvw0AAAAzAAAA",
+              "ViewState": "AQIAABUAAAAAAAAAAAAowCEAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-28T20:18:31.044Z",
               "EditorCaption": ""

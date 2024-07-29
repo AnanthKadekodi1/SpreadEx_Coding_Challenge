@@ -20,16 +20,6 @@
             this.rectangleHeight = rectangleHeight;
         }
 
-        public int GetrectangleWidth()
-        {
-            return rectangleWidth;
-        }
-
-        public int GetrectangleHeight()
-        {
-            return rectangleHeight;
-        }
-
         public override string ToString()
         {
             return string.Format("{0} width={1} height={2}", base.ToString(), rectangleWidth, rectangleHeight);
