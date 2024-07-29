@@ -18,14 +18,6 @@
             this.horizontalDiameter = horizontalDiameter;
             this.verticalDiameter = verticalDiameter;
         }
-        public int GethorizontalDiameter()
-        {
-            return horizontalDiameter;
-        }
-        public int GetverticalDiameter()
-        {
-            return verticalDiameter;
-        }
 
         public override string ToString()
         {

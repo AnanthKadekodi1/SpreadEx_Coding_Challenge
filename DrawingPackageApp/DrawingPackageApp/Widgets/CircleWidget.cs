@@ -14,11 +14,6 @@
             this.circleSize = circleSize;
         }
 
-        public int GetCircleDiameter()
-        {
-            return circleSize;
-        }
-
         public override string ToString()
         {
             return string.Format("{0} size={1}", base.ToString(), circleSize);
